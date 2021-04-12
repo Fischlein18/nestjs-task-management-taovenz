@@ -1,0 +1,6 @@
+server:
+  origin: http://nestjs-task-management-frontend-taovenzke23.s3-website.eu-central-1.amazonaws.com/
+  
+db:
+  synchronize: false
+# sensitive information should be supplied via Environment Variables
